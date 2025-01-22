@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+# 密钥相关文件
+.keys/
+*_totp
+totp_config.json 
