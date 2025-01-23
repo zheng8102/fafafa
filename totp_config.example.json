@@ -1,0 +1,6 @@
+{
+    "ServiceName": "YOUR_BASE32_ENCODED_SECRET",
+    "GitHub": "ABCDEFGHIJKLMNOP",
+    "Google": "ZYXWVUTSRQPONMLK",
+    "AWS": "1234567890ABCDEF"
+} 

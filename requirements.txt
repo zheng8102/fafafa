@@ -1,0 +1,4 @@
+pyotp==2.9.0
+pyperclip==1.8.2
+cx_Freeze==6.15.9
+Pillow==10.0.0 
